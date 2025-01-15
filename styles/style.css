@@ -10,7 +10,19 @@ html {
     padding: 0;
 }
 
-#header {
+.header {
     background-color: #4e4e4e;
     padding: 0.5em;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.recipes-links li {
+    margin: 5px;
+}
+
+.recipes-links a{
+    color: white;
 }
