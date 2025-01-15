@@ -11,3 +11,16 @@
 
     border: 1px solid #fff;
 }
+
+.ingredients {
+    width: 300px;
+    margin: 20px auto;
+}
+
+.ingredients h2 {
+    font-size: 40px;
+}
+
+.ingredients ul li {
+    padding:3px;
+}
